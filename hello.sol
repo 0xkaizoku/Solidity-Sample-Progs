@@ -14,4 +14,4 @@ contract hello
 }
 
 //compiled using remix(merge), also after deployment set and get usage is needed
-// use trasact after deployment
+// use the trasact after deployment
